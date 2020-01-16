@@ -1,0 +1,1 @@
+function hideCepComponentResult(){document.querySelectorAll(".result.ng-star-inserted")[0].style.visibility="hidden"}
